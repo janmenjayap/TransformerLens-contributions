@@ -5,9 +5,8 @@ A source-linked technical record of Janmenjaya Panda's contributions to
 including research features, numerical validation, model compatibility work,
 proposals, and collaboration.
 
-The documentation follows the Sphinx-based structure of the
-[`GSoC-2025`](https://github.com/janmenjayap/GSoC-2025) project and adds an
-automated GitHub Pages deployment.
+The documentation uses Sphinx and includes an automated GitHub Pages
+deployment.
 
 ## Site contents
 
